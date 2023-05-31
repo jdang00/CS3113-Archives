@@ -1,0 +1,11 @@
+Geography,IsActiveMember,HasCrCard,Balance,CreditScore,Exited
+France,1,1,48080.45,524,1
+France,1,1,75495.38,336,1
+Spain,1,1,60836.30,734,1
+France,0,0,63736.83,687,0
+France,0,0,9383.99,517,0
+Spain,1,1,76913.24,333,1
+Germany,0,0,4853.70,652,0
+Germany,0,0,62636.49,582,0
+France,0,1,9014.65,478,0
+France,0,0,73423.12,699,0
